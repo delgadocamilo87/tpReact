@@ -1,0 +1,16 @@
+#cardItems{
+    display: flex;
+    background-color: #323232;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 4px 4px 4px rgb(195 195 195 / 76%);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1.5em;
+}
+
+.image{
+    width: 180px;
+    border-radius: 60em;
+}
