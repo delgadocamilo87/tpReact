@@ -4,9 +4,9 @@ import './Cart.css';
 function Cart({ cart, totalPrice, onBack }) {
   return (
     <div className="cart">
-      <h2>Chart</h2>
+      <h2>Cart</h2>
       {cart.length === 0 ? (
-        <p>the chart it's empty...</p>
+        <p>the cart it's empty...</p>
       ) : (
         <>
           <div>
